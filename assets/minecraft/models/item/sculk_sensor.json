@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:flat/sculk_sensor_base",
+    "layer1": "minecraft:flat/sculk_sensor_tendril"
+  }
+}
