@@ -15,7 +15,8 @@
   - Refined Storage [P]
  
   Here's the release notes for each version:
+
   Flat Blocks for 23w07a:
-    - Added textures for the Cherry wood set
-    - Added texture for the Decorated Pot, but it doesn't take its NBT data in consideration
-    - Added texture for the Suspicious Sand
+  - Added textures for the Cherry wood set
+  - Added texture for the Decorated Pot, but it doesn't take its NBT data in consideration
+  - Added texture for the Suspicious Sand
