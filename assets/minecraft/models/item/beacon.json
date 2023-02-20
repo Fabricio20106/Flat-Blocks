@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:flat/beacon",
+    "layer1": "minecraft:flat/glass/colorless"
+  }
+}
